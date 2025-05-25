@@ -1,6 +1,5 @@
-Here's the formatted Markdown:
 
-```markdown
+
 # 🐶 Small Cat or Dog Classifier 🐱  
 
 A tiny image classifier that looks at a photo and tells you:  
